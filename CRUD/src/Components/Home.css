@@ -1,0 +1,11 @@
+
+ .bg {
+    background: linear-gradient(black, rgb(36, 34, 34), black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 500px;
+    width: 700px; */
+  }
+
+  
